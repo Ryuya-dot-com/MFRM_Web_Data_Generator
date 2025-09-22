@@ -155,7 +155,3 @@ This workflow produces 100 labelled datasets, each capturing rater/task combinat
 - **Thresholds**: Rating category step calibrations; manual mode lets you impose bespoke cut scores.
 - **Dataset Label**: Internal name (e.g., `Dataset 001`) attached to each simulated dataset and reused in exports.
 
----
-
-## Contributing
-Feel free to adapt the code for your institution’s workflow. If you introduce new UI panels or export formats, document them in this README so fellow researchers can follow the updated prompts.
